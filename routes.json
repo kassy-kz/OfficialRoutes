@@ -1,7 +1,77 @@
 {
    "routes" : [
       {
-         "title" : "グランフォンド軽井沢2016",
+         "title" : "スーパーヒルクライムシリーズin波賀 波賀西口コース",
+         "date" : "2016/4/23",
+         "location" : {
+            "lat" : 35.67343,
+            "lng" : 139.70508
+         },
+         "url" : "http://latlonglab.yahoo.co.jp/route/watch?id=623294691c498ef112cfc902f6f28a89",
+         "image" : "http://kassy-kz.github.io/OfficialRoutes/haganishi2016.png"
+      },
+      {
+         "title" : "スーパーヒルクライムシリーズin波賀 波賀南口コース",
+         "date" : "2016/4/23",
+         "location" : {
+            "lat" : 35.67343,
+            "lng" : 139.70508
+         },
+         "url" : "http://latlonglab.yahoo.co.jp/route/watch?id=6b027390089e9a4b254d4bff0b4427e0",
+         "image" : "http://kassy-kz.github.io/OfficialRoutes/hagaminami2016.png"
+      },
+      {
+         "title" : "日光白根ヒルクライム",
+         "date" : "2016/4/24",
+         "location" : {
+            "lat" : 35.67343,
+            "lng" : 139.70508
+         },
+         "url" : "http://latlonglab.yahoo.co.jp/route/watch?id=276a103d390d5e065647a142a57978bc",
+         "image" : "http://kassy-kz.github.io/OfficialRoutes/shirane2016.png"
+      },
+      {
+         "title" : "東京ヒルクライムHINODEステージ8km",
+         "date" : "2016/4/24",
+         "location" : {
+            "lat" : 35.67343,
+            "lng" : 139.70508
+         },
+         "url" : "http://latlonglab.yahoo.co.jp/route/watch?id=d03060df24c0e5b1ff949362dda19b2a",
+         "image" : "http://kassy-kz.github.io/OfficialRoutes/tokyo-hc2016-8km.png"
+      },
+      {
+         "title" : "東京ヒルクライムHINODEステージ5km",
+         "date" : "2016/4/24",
+         "location" : {
+            "lat" : 35.67343,
+            "lng" : 139.70508
+         },
+         "url" : "http://latlonglab.yahoo.co.jp/route/watch?id=f92e24af37ab7c1546cae04293f0ac2b",
+         "image" : "http://kassy-kz.github.io/OfficialRoutes/tokyo-hc2016-5km.png"
+      },
+      {
+         "title" : "グランフォンド京都2016",
+         "date" : "2016/5/8",
+         "location" : {
+            "lat" : 35.67343,
+            "lng" : 139.70508
+         },
+         "url" : "http://latlonglab.yahoo.co.jp/route/watch?id=87e56380706d8af2ac9a06b51d76b467",
+         "image" : "http://kassy-kz.github.io/OfficialRoutes/gf-kyoto2016.png"
+      },
+      {
+         "title" : "ツールド国東2016",
+         "date" : "2016/5/15",
+         "location" : {
+            "lat" : 35.67343,
+            "lng" : 139.70508
+         },
+         "url" : "http://latlonglab.yahoo.co.jp/",
+         "image" : "http://kassy-kz.github.io/OfficialRoutes/comingsoon.png"
+      },
+      {
+         "title" : "グランフォンド軽井沢2016 160km",
          "date" : "2016/5/15",
          "location" : {
             "lat" : 35.67343,
