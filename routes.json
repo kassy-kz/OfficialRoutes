@@ -99,6 +99,38 @@
          },
          "url" : "http://latlonglab.yahoo.co.jp/route/watch?id=a9473fbe44b079ab1250694d9d0c0b7d",
          "image" : "http://kassy-kz.github.io/OfficialRoutes/fujihc2016.png"
+      },
+      {
+         "title" : "ツールドさくらんぼ2016 グランフォンドコース",
+         "date" : "2016/6/12",
+         "location" : {
+            "lat" : 35.67343,
+            "lng" : 139.70508
+         },
+         "url" : "http://latlonglab.yahoo.co.jp/route/watch?id=1230b4bfa444a7ab39bf01e3d173d71b",
+         "image" : "http://kassy-kz.github.io/OfficialRoutes/sakuranbo2016_gran.png"
+      },
+      {
+         "title" : "ツールドさくらんぼ2016 メディオフォンドコース",
+         "date" : "2016/6/12",
+         "location" : {
+            "lat" : 35.67343,
+            "lng" : 139.70508
+         },
+         "url" : "http://latlonglab.yahoo.co.jp/route/watch?id=dd1eaf7c46df987b508c8a7f054d783c",
+         "image" : "http://kassy-kz.github.io/OfficialRoutes/sakuranbo2016_medio.png"
+      },
+      {
+         "title" : "ツールドさくらんぼ2016 さくらんぼ満喫コース",
+         "date" : "2016/6/12",
+         "location" : {
+            "lat" : 35.67343,
+            "lng" : 139.70508
+         },
+         "url" : "http://latlonglab.yahoo.co.jp/route/watch?id=a460220aaaaca0610a80e093c5060383",
+         "image" : "http://kassy-kz.github.io/OfficialRoutes/sakuranbo2016_mankitu.png"
       }
+
+
    ]
 }
