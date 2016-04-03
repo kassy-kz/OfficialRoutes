@@ -81,7 +81,7 @@
          "image" : "http://kassy-kz.github.io/OfficialRoutes/gf-karuizawa2016_1.png"
       },
       {
-         "title" : "アルプスあづみのセンチュリーライド2016",
+         "title" : "アルプスあづみのセンチュリーライド2016 160km",
          "date" : "2016/5/22",
          "location" : {
             "lat" : 35.67343,
@@ -89,6 +89,36 @@
          },
          "url" : "http://latlonglab.yahoo.co.jp/route/watch?id=e60f27b770e30f23b01dd8acb81c9c33",
          "image" : "http://kassy-kz.github.io/OfficialRoutes/aacr2016_1.png"
+      },
+      {
+         "title" : "アルプスあづみのセンチュリーライド2016 120km",
+         "date" : "2016/5/22",
+         "location" : {
+            "lat" : 35.67343,
+            "lng" : 139.70508
+         },
+         "url" : "http://latlonglab.yahoo.co.jp/route/watch?id=eac4832b770e9dd7b9a8ad79fd2f2d1b",
+         "image" : "http://kassy-kz.github.io/OfficialRoutes/aacr2016_2.png"
+      },
+      {
+         "title" : "アルプスあづみのセンチュリーライド2016 80km",
+         "date" : "2016/5/22",
+         "location" : {
+            "lat" : 35.67343,
+            "lng" : 139.70508
+         },
+         "url" : "http://latlonglab.yahoo.co.jp/route/watch?id=7b14dc0de7b4411816e64fba5f23c5b3",
+         "image" : "http://kassy-kz.github.io/OfficialRoutes/aacr2016_3.png"
+      },
+      {
+         "title" : "アルプスあづみのセンチュリーライド2016 サイクルトレイン",
+         "date" : "2016/5/22",
+         "location" : {
+            "lat" : 35.67343,
+            "lng" : 139.70508
+         },
+         "url" : "http://latlonglab.yahoo.co.jp/route/watch?id=229ee0e0355595859146a4f828a0561b",
+         "image" : "http://kassy-kz.github.io/OfficialRoutes/aacr2016_4.png"
       },
       {
          "title" : "富士ヒルクライム",
