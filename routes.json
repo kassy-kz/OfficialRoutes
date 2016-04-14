@@ -1,6 +1,26 @@
 {
    "routes" : [
       {
+         "title" : "ツールド八ヶ岳ハーフコース15km",
+         "date" : "2016/4/17",
+         "location" : {
+            "lat" : 35.67343,
+            "lng" : 139.70508
+         },
+         "url" : "https://www.google.com/maps/d/viewer?mid=zm-thNVSxN8o.kXIi9BCuZQTc",
+         "image" : "http://kassy-kz.github.io/OfficialRoutes/yatsugatake2016half.png"
+      },
+      {
+         "title" : "ツールド八ヶ岳フルコース25km",
+         "date" : "2016/4/17",
+         "location" : {
+            "lat" : 35.67343,
+            "lng" : 139.70508
+         },
+         "url" : "https://www.google.com/maps/d/viewer?mid=zm-thNVSxN8o.krBqiABbh4B8",
+         "image" : "http://kassy-kz.github.io/OfficialRoutes/yatsugatake2016full.png"
+      },
+      {
          "title" : "スーパーヒルクライムシリーズin波賀 波賀西口コース",
          "date" : "2016/4/23",
          "location" : {
