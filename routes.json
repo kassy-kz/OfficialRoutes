@@ -1,8 +1,48 @@
 {
    "routes" : [
       {
+         "title" : "わかやまサイクリングフェスタ 天空の聖地 高野山センチュリーライド",
+         "date" : "2017/3/26",
+         "location" : {
+            "lat" : 35.67343,
+            "lng" : 139.70508
+         },
+         "url" : "http://latlonglab.yahoo.co.jp/route/watch?id=5e24bae333139a3f327e33734fed93bd",
+         "image" : "http://kassy-kz.github.io/OfficialRoutes/wakayama1.png"
+      },
+      {
+         "title" : "わかやまサイクリングフェスタ 紀の国うまいもん満喫ライド",
+         "date" : "2017/3/26",
+         "location" : {
+            "lat" : 35.67343,
+            "lng" : 139.70508
+         },
+         "url" : "http://latlonglab.yahoo.co.jp/route/watch?id=c38ca1c6c7a6134c819fa95647f913aa",
+         "image" : "http://kassy-kz.github.io/OfficialRoutes/wakayama2.png"
+      },
+      {
+         "title" : "わかやまサイクリングフェスタ サイクリングデビューわくわくライド",
+         "date" : "2017/3/26",
+         "location" : {
+            "lat" : 35.67343,
+            "lng" : 139.70508
+         },
+         "url" : "http://latlonglab.yahoo.co.jp/route/watch?id=37ac4c9e9bd37be5a7eae7d8f70a80a1",
+         "image" : "http://kassy-kz.github.io/OfficialRoutes/wakayama3.png"
+      },
+      {
+         "title" : "菰野ヒルクライム",
+         "date" : "2017/3/26",
+         "location" : {
+            "lat" : 35.67343,
+            "lng" : 139.70508
+         },
+         "url" : "https://www.google.com/maps/d/u/0/embed?mid=zlaV4wHo3jVY.k_elUT1pQ00s",
+         "image" : "http://kassy-kz.github.io/OfficialRoutes/komono.png"
+      },
+      {
          "title" : "ツールド八ヶ岳ハーフコース15km",
-         "date" : "2016/4/17",
+         "date" : "2017/4/16",
          "location" : {
             "lat" : 35.67343,
             "lng" : 139.70508
@@ -12,7 +52,7 @@
       },
       {
          "title" : "ツールド八ヶ岳フルコース25km",
-         "date" : "2016/4/17",
+         "date" : "2017/4/16",
          "location" : {
             "lat" : 35.67343,
             "lng" : 139.70508
@@ -21,28 +61,8 @@
          "image" : "http://kassy-kz.github.io/OfficialRoutes/yatsugatake2016full.png"
       },
       {
-         "title" : "スーパーヒルクライムシリーズin波賀 波賀西口コース",
-         "date" : "2016/4/23",
-         "location" : {
-            "lat" : 35.67343,
-            "lng" : 139.70508
-         },
-         "url" : "http://latlonglab.yahoo.co.jp/route/watch?id=623294691c498ef112cfc902f6f28a89",
-         "image" : "http://kassy-kz.github.io/OfficialRoutes/haganishi2016.png"
-      },
-      {
-         "title" : "スーパーヒルクライムシリーズin波賀 波賀南口コース",
-         "date" : "2016/4/23",
-         "location" : {
-            "lat" : 35.67343,
-            "lng" : 139.70508
-         },
-         "url" : "http://latlonglab.yahoo.co.jp/route/watch?id=6b027390089e9a4b254d4bff0b4427e0",
-         "image" : "http://kassy-kz.github.io/OfficialRoutes/hagaminami2016.png"
-      },
-      {
          "title" : "日光白根ヒルクライム",
-         "date" : "2016/4/24",
+         "date" : "2017/4/23",
          "location" : {
             "lat" : 35.67343,
             "lng" : 139.70508
@@ -51,136 +71,14 @@
          "image" : "http://kassy-kz.github.io/OfficialRoutes/shirane2016.png"
       },
       {
-         "title" : "東京ヒルクライムHINODEステージ8km",
-         "date" : "2016/4/24",
+         "title" : "桜のアルプスあづみのセンチュリーライド",
+         "date" : "2017/4/23",
          "location" : {
             "lat" : 35.67343,
             "lng" : 139.70508
          },
-         "url" : "http://latlonglab.yahoo.co.jp/route/watch?id=d03060df24c0e5b1ff949362dda19b2a",
-         "image" : "http://kassy-kz.github.io/OfficialRoutes/tokyo-hc2016-8km.png"
-      },
-      {
-         "title" : "東京ヒルクライムHINODEステージ5km",
-         "date" : "2016/4/24",
-         "location" : {
-            "lat" : 35.67343,
-            "lng" : 139.70508
-         },
-         "url" : "http://latlonglab.yahoo.co.jp/route/watch?id=f92e24af37ab7c1546cae04293f0ac2b",
-         "image" : "http://kassy-kz.github.io/OfficialRoutes/tokyo-hc2016-5km.png"
-      },
-      {
-         "title" : "グランフォンド京都2016",
-         "date" : "2016/5/8",
-         "location" : {
-            "lat" : 35.67343,
-            "lng" : 139.70508
-         },
-         "url" : "http://latlonglab.yahoo.co.jp/route/watch?id=87e56380706d8af2ac9a06b51d76b467",
-         "image" : "http://kassy-kz.github.io/OfficialRoutes/gf-kyoto2016.png"
-      },
-      {
-         "title" : "ツールド国東2016",
-         "date" : "2016/5/15",
-         "location" : {
-            "lat" : 35.67343,
-            "lng" : 139.70508
-         },
-         "url" : "http://latlonglab.yahoo.co.jp/",
-         "image" : "http://kassy-kz.github.io/OfficialRoutes/comingsoon.png"
-      },
-      {
-         "title" : "グランフォンド軽井沢2016 160km",
-         "date" : "2016/5/15",
-         "location" : {
-            "lat" : 35.67343,
-            "lng" : 139.70508
-         },
-         "url" : "http://latlonglab.yahoo.co.jp/route/watch?id=24ca28b6d0c5edee9e26ee92de17ea1a",
-         "image" : "http://kassy-kz.github.io/OfficialRoutes/gf-karuizawa2016_1.png"
-      },
-      {
-         "title" : "アルプスあづみのセンチュリーライド2016 160km",
-         "date" : "2016/5/22",
-         "location" : {
-            "lat" : 35.67343,
-            "lng" : 139.70508
-         },
-         "url" : "http://latlonglab.yahoo.co.jp/route/watch?id=e60f27b770e30f23b01dd8acb81c9c33",
-         "image" : "http://kassy-kz.github.io/OfficialRoutes/aacr2016_1.png"
-      },
-      {
-         "title" : "アルプスあづみのセンチュリーライド2016 120km",
-         "date" : "2016/5/22",
-         "location" : {
-            "lat" : 35.67343,
-            "lng" : 139.70508
-         },
-         "url" : "http://latlonglab.yahoo.co.jp/route/watch?id=eac4832b770e9dd7b9a8ad79fd2f2d1b",
-         "image" : "http://kassy-kz.github.io/OfficialRoutes/aacr2016_2.png"
-      },
-      {
-         "title" : "アルプスあづみのセンチュリーライド2016 80km",
-         "date" : "2016/5/22",
-         "location" : {
-            "lat" : 35.67343,
-            "lng" : 139.70508
-         },
-         "url" : "http://latlonglab.yahoo.co.jp/route/watch?id=7b14dc0de7b4411816e64fba5f23c5b3",
-         "image" : "http://kassy-kz.github.io/OfficialRoutes/aacr2016_3.png"
-      },
-      {
-         "title" : "アルプスあづみのセンチュリーライド2016 サイクルトレイン",
-         "date" : "2016/5/22",
-         "location" : {
-            "lat" : 35.67343,
-            "lng" : 139.70508
-         },
-         "url" : "http://latlonglab.yahoo.co.jp/route/watch?id=229ee0e0355595859146a4f828a0561b",
-         "image" : "http://kassy-kz.github.io/OfficialRoutes/aacr2016_4.png"
-      },
-      {
-         "title" : "富士ヒルクライム",
-         "date" : "2016/6/12",
-         "location" : {
-            "lat" : 35.67343,
-            "lng" : 139.70508
-         },
-         "url" : "http://latlonglab.yahoo.co.jp/route/watch?id=a9473fbe44b079ab1250694d9d0c0b7d",
-         "image" : "http://kassy-kz.github.io/OfficialRoutes/fujihc2016.png"
-      },
-      {
-         "title" : "ツールドさくらんぼ2016 グランフォンドコース",
-         "date" : "2016/6/12",
-         "location" : {
-            "lat" : 35.67343,
-            "lng" : 139.70508
-         },
-         "url" : "http://latlonglab.yahoo.co.jp/route/watch?id=1230b4bfa444a7ab39bf01e3d173d71b",
-         "image" : "http://kassy-kz.github.io/OfficialRoutes/sakuranbo2016_gran.png"
-      },
-      {
-         "title" : "ツールドさくらんぼ2016 メディオフォンドコース",
-         "date" : "2016/6/12",
-         "location" : {
-            "lat" : 35.67343,
-            "lng" : 139.70508
-         },
-         "url" : "http://latlonglab.yahoo.co.jp/route/watch?id=dd1eaf7c46df987b508c8a7f054d783c",
-         "image" : "http://kassy-kz.github.io/OfficialRoutes/sakuranbo2016_medio.png"
-      },
-      {
-         "title" : "ツールドさくらんぼ2016 さくらんぼ満喫コース",
-         "date" : "2016/6/12",
-         "location" : {
-            "lat" : 35.67343,
-            "lng" : 139.70508
-         },
-         "url" : "http://latlonglab.yahoo.co.jp/route/watch?id=a460220aaaaca0610a80e093c5060383",
-         "image" : "http://kassy-kz.github.io/OfficialRoutes/sakuranbo2016_mankitu.png"
+         "url" : "http://latlonglab.yahoo.co.jp/route/watch?id=26896c5acdc9ba411ca523c38baa66a4",
+         "image" : "http://kassy-kz.github.io/OfficialRoutes/aacr2017_sakura.png"
       }
-
-
    ]
 }
