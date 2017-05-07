@@ -79,6 +79,76 @@
          },
          "url" : "http://latlonglab.yahoo.co.jp/route/watch?id=26896c5acdc9ba411ca523c38baa66a4",
          "image" : "http://kassy-kz.github.io/OfficialRoutes/aacr2017_sakura.png"
+      },
+      {
+         "title" : "グランフォンド軽井沢2017",
+         "date" : "2017/5/13-14",
+         "location" : {
+            "lat" : 35.67343,
+            "lng" : 139.70508
+         },
+         "url" : "https://latlonglab.yahoo.co.jp/route/watch?id=24ca28b6d0c5edee9e26ee92de17ea1a",
+         "image" : "http://kassy-kz.github.io/OfficialRoutes/gf2017_karuizawa.png"
+      },
+      {
+         "title" : "グランフォンド嬬恋2017",
+         "date" : "2017/5/13-14",
+         "location" : {
+            "lat" : 35.67343,
+            "lng" : 139.70508
+         },
+         "url" : "https://latlonglab.yahoo.co.jp/route/watch?id=b98cae432303d4fd95a7b16e0e8b19a7",
+         "image" : "http://kassy-kz.github.io/OfficialRoutes/gf2017_tsumagoi.png"
+      },
+      {
+         "title" : "グランフォンドKOMORO 2017",
+         "date" : "2017/5/13-14",
+         "location" : {
+            "lat" : 35.67343,
+            "lng" : 139.70508
+         },
+         "url" : "https://latlonglab.yahoo.co.jp/route/watch?id=82e6a676c200f0d73f8de3dc0bb352ea",
+         "image" : "http://kassy-kz.github.io/OfficialRoutes/gf2017_komoro.png"
+      },
+      {
+         "title" : "スーパーグランフォンド軽井沢2017",
+         "date" : "2017/5/13-14",
+         "location" : {
+            "lat" : 35.67343,
+            "lng" : 139.70508
+         },
+         "url" : "https://latlonglab.yahoo.co.jp/route/watch?id=d4378c51841e812172bda7e7a5dafb23",
+         "image" : "http://kassy-kz.github.io/OfficialRoutes/gf2017_super.png"
+      },
+      {
+         "title" : "緑のアルプスあづみのセンチュリーライド 160km",
+         "date" : "2017/5/21",
+         "location" : {
+            "lat" : 35.67343,
+            "lng" : 139.70508
+         },
+         "url" : "https://latlonglab.yahoo.co.jp/route/watch?id=327d725ef9e8883291c33d2226c23dee",
+         "image" : "http://kassy-kz.github.io/OfficialRoutes/aacr2017_midori160.png"
+      },
+      {
+         "title" : "緑のアルプスあづみのセンチュリーライド 120km",
+         "date" : "2017/5/21",
+         "location" : {
+            "lat" : 35.67343,
+            "lng" : 139.70508
+         },
+         "url" : "https://latlonglab.yahoo.co.jp/route/watch?id=602430db6172455a9f24e98706a407fe",
+         "image" : "http://kassy-kz.github.io/OfficialRoutes/aacr2017_midori120.png"
+      },
+      {
+         "title" : "緑のアルプスあづみのセンチュリーライド 80km",
+         "date" : "2017/5/21",
+         "location" : {
+            "lat" : 35.67343,
+            "lng" : 139.70508
+         },
+         "url" : "https://latlonglab.yahoo.co.jp/route/watch?id=caf0f357a3bf7524adb2689fbc0970da",
+         "image" : "http://kassy-kz.github.io/OfficialRoutes/aacr2017_midori80.png"
       }
    ]
 }
